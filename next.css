@@ -1,13 +1,33 @@
-h1 {
-
-    font-size: 200px;
-    background-color: chocolate;
-    font: optional;
-    color: yellow;
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
+a {
+    margin: 130px;
+    font-weight: 600;
+    background-color: rgb(246, 255, 0);
+}
 
+.blog {
 
+    border: 5px solid peru;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.second {
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: center;
 
 }
